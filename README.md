@@ -3,3 +3,4 @@
 --Mazda CX-5
 --Mazda CX-3
 --Mazda 5
+--Mazda 6
